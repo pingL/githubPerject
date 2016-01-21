@@ -1,4 +1,4 @@
-package com.fblife.zhaohengyi.counter;
+﻿package com.fblife.zhaohengyi.counter;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -19,6 +19,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button but_8;
     Button but_9;
 
+
+
+
+///
     Button but_add;//加
     Button but_subtract;//减
     Button but_multiply;//乘
